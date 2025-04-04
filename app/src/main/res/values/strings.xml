@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pr.6</string>
+    <string name="my_app">My App</string>
+    <string name="navigation_drawer_open">Open Menu</string>
+    <string name="navigation_drawer_close">Close Menu</string>
+    <string name="flowers">Flowers</string>
+</resources>

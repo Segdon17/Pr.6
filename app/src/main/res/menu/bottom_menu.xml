@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab1"
+        android:title="Room"
+        android:icon="@drawable/ic_room"/>
+    <item
+        android:id="@+id/tab2"
+        android:title="Field"
+        android:icon="@drawable/ic_field"/>
+    <item
+        android:id="@+id/tab3"
+        android:title="Bush"
+        android:icon="@drawable/ic_bush"/>
+</menu>
